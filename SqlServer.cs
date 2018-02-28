@@ -23,10 +23,10 @@ namespace FDprocess
         }
         public void InitialData()
         {
-            m_server = "DESKTOP-DV7D99R\\SQLSERVER2016";
-            m_database = "Wuhan_FCD_2009";
-            m_uid = "sa";
-            m_pwd = "sa";
+            m_server = "******";
+            m_database = "******";
+            m_uid = "**";
+            m_pwd = "**";
         }
         //连接数据库
         public  void mySqlOpenCon()
